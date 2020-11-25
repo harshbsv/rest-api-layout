@@ -1,6 +1,7 @@
 # flutter_api_handling
 
 A Flutter project which handles RestAPI calls. This is a sort of template, a reference only.
+This example covers what a Fruits list would be handled like.
 
 ## Getting Started
 
