@@ -1,6 +1,6 @@
 # flutter_api_handling
 
-A new Flutter project.
+A Flutter project which handles RestAPI calls. This is a sort of template, a reference only.
 
 ## Getting Started
 
